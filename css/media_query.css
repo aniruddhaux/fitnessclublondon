@@ -1,0 +1,2023 @@
+@media only screen and (min-width:1141px){
+
+
+}
+
+
+@media only screen and (min-width:960px) and (max-width:1140px){
+.wrapper{
+	 width: auto; 
+	}
+#header .navMenu ul li {
+    margin: 0 20px 0 0 !important;
+    display: inline-table !important;
+	float:none !important;
+	}
+.content {
+    padding: 0 15px;
+	}	
+.left_panel {
+    width: 64%;
+	}
+footer {
+    margin: 41px 15px 0;
+	}
+.info {
+    width: 33%;
+	}	
+.ft_contact {
+    width: 25%;
+	}	
+.timing ul li {
+    clear: both;
+    display: block;
+    padding: 0 0 19px;
+	}	
+.day {
+    width: 49%;
+}	
+.time {
+    width: 43%;
+}	
+.mean-bar:after{
+    display: none !important;
+	}
+
+/*** personal page ***/
+.personal_dep {
+    width: auto;
+	}	
+.box_cnt img {
+    height: auto;
+    width: 100%;
+	}
+.before_after li {
+    margin-right: 3%;
+    width: 30%;
+	}
+.before_after img {
+    height: auto;
+    width: 100%;
+	}
+/*** Physio page ***/
+.ft_img_box li {
+    display: inline-block;
+    margin-right: 3%;
+    vertical-align: top;
+    width: 268px;
+}
+.ft_img_box img {
+    height: auto;
+    width: 100%;
+	}
+/*** Dance page ***/
+.dance_video {
+    width: 48%;
+	}
+.dance_video img {
+    width:100%;
+	height:auto;
+	}
+.video_inst {
+    padding: 23px 0 0;
+}	
+.instagrame {
+    width: 44%;
+	}
+.instagrame img{
+    width: 100%;
+	height:auto;
+	}
+.inner_pg_box {
+    margin: 22px 0 0;
+	}
+.left_bn {
+    width: 300px;
+	}
+.middle_bn {
+    width: 299px;
+	}
+.right_bn {
+    width: 302px;
+	}
+.banner {
+    margin-bottom: 0;
+	}
+.bookConsultation {
+    background-size: 100% auto;
+    height: 46px;
+    margin: 17px 0 0;
+    padding: 18px 0 0;
+	}
+
+
+
+
+
+
+		
+}
+
+@media only screen and (min-width:769px) and (max-width:959px){
+.wrapper{
+	 width: auto; 
+	}
+#header .navMenu ul li {
+     margin: 0 10px 0 0 !important;
+     display: inline-table !important;
+	 float:none !important;
+	 height: 106px !important;
+	 background: url("../images/nav_bg.png") no-repeat scroll center 0 / 105px auto rgba(0, 0, 0, 0) !important;
+	 width: 107px !important;
+	}
+#header .navMenu ul li a {
+    font-size: 14px !important;
+	}	
+.content {
+    padding: 0 15px;
+	}	
+.left_panel {
+    width: 64%;
+	}
+footer {
+    margin: 41px 15px 0;
+	}
+.info {
+    width: 33%;
+	}	
+.ft_contact {
+    width: 25%;
+	}	
+.timing ul li {
+    clear: both;
+    display: block;
+    padding: 0 0 6px;
+	}	
+.timing ul li span {
+    /*display: block;*/
+	}
+.day {
+    width: auto;
+	}	
+.time {
+    width: auto;
+	float:none;
+	}
+.timing h2 {
+    padding: 7px 0 12px 23px;
+	font-size: 23px;
+	}	
+.fitness_apps h2{
+    padding: 7px 0 12px 23px;
+	font-size: 23px;
+	}	
+.fitness_apps img {
+    padding: 25px 0 6px;
+    width: 100%;
+	}
+.app_bt a {
+    background: url("../images/button1.png") no-repeat scroll center 0 / 110px auto rgba(0, 0, 0, 0);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 9px 0;
+	}
+.testi {
+    margin: 20px 0 0;
+	}
+.fitness_apps {
+    margin: 25px 0 0;
+	}
+.testi h2{
+	padding: 7px 0 12px 23px;
+	font-size: 23px;
+	}
+.testi li h3 {
+    font-size: 17px;
+	}
+.info img {
+    height: auto;
+    width: 198px;
+	}
+.ft_nav li a {
+    padding: 0 11px;
+	}
+.mean-bar:after{
+    display: none !important;
+	}
+.left_bn {
+    width: 255px;
+	}
+.middle_bn {
+    width: 252px;
+	margin: 5px -24px 0 -11px;
+	}
+.right_bn {
+    width: 254px;
+	}
+.banner {
+    margin-bottom: 0;
+	}
+.bookConsultation {
+    background-size: 100% auto;
+    height: 46px;
+    margin: 17px auto 0;
+    padding: 18px 0 0;
+    /*width: 310px;*/
+	}
+.banner span p {
+    font-size: 16px;
+    font-weight: 600;
+	}	
+.topCaption {
+    background-size: 100px auto;
+    line-height: 82px;
+    padding: 14px 121px 0 226px;
+	}
+.right_panel {
+    width: 43%;
+	}
+.video iframe {
+    height: 330px;
+	}
+.video {
+    width: 55%;
+	}
+.ftSocial img {
+    width: auto;
+	}
+.ft_logo img {
+    height: auto;
+    max-width: 210px;
+    width: 100%;
+	}
+.right_bn p {
+    top: 23px;
+	}	
+.testi h2 a {
+    line-height: 48px;
+    right: 20px;
+	}	
+	
+	
+	
+		
+/*** personal page ***/
+.personal_dep {
+    width: 49%;
+	}	
+.box_cnt img {
+    height: auto;
+    width: 100%;
+	}
+.before_after li {
+    margin-right: 3%;
+    width: 30%;
+	}
+.before_after img {
+    height: auto;
+    width: 100%;
+	}
+/*** Physio page ***/
+.ft_img_box li {
+    display: inline-block;
+    margin-right: 3%;
+    vertical-align: top;
+    width: 218px;
+}
+.ft_img_box img {
+    height: auto;
+    width: 100%;
+	}
+/*** Apps page ***/
+.apps_left_panel {
+    width: 48%;
+	}
+.apps_right_panel {
+    width: 48%;
+	}
+/*** Contact page ***/
+.box_cnt form ul li label {
+    width: 34%;
+	}
+/*** Dance page ***/
+.dance_video {
+    width: 47%;
+	}
+.dance_video img {
+    width:100%;
+	height:auto;
+	}
+.video_inst {
+    padding: 23px 0 0;
+}	
+.instagrame {
+    width: 44%;
+	}
+.instagrame img{
+    width: 100%;
+	height:auto;
+	}
+.inner_pg_box {
+    margin: 22px 0 0;
+	}
+/*****  Personal page **********/
+.personal_video {
+    float: left;
+	}
+.personal_video {
+    float: left;
+	}
+.personal_dep {
+    width: auto;
+	display:inline;
+	}
+
+
+
+
+
+
+	
+	
+}
+@media only screen and (min-width:641px) and (max-width:768px){
+.wrapper{
+	 width: auto; 
+	 margin: 0 auto 24px;
+	}
+body {
+    background: url("../images/bg_l.png") no-repeat scroll left top / 280px auto, url("../images/bg_r.png") no-repeat scroll right top / 281px auto, url("../images/bottom_bg.png") no-repeat scroll center bottom, url("../images/body_bg.jpg") repeat scroll center 0 #1f1e1c;	
+	}
+.logo img {
+    height: auto;
+    width: 397px;
+	}	
+#header .navMenu ul li {
+    margin: 0 10px 0 0 !important;
+    display: inline-table !important;
+	float:none !important;
+	 height: 106px !important;
+	 background: url("../images/nav_bg.png") no-repeat scroll center 0 / 105px auto rgba(0, 0, 0, 0) !important;
+	 width: 107px !important;
+	}
+#header .navMenu ul li a {
+    font-size: 14px !important;
+	}	
+.content {
+    padding: 0 15px;
+	}	
+.left_panel {
+    width: auto;
+}
+.right_panel {
+    padding: 32px 0 0;
+    width: auto;
+	}
+footer {
+    margin: 41px 15px 0;
+	}
+.info {
+    width: 33%;
+	}	
+.ft_contact {
+    width: 25%;
+	}	
+.timing h2 {
+    padding: 7px 0 12px 23px;
+	font-size: 23px;
+	}	
+.fitness_apps h2{
+    padding: 7px 0 12px 23px;
+	font-size: 23px;
+	}	
+.fitness_apps img {
+    max-width: 285px;
+    padding: 25px 0 6px;
+    width: 100%;
+	}
+.app_bt {
+    margin: 15px auto 18px;
+	}	
+.app_bt a {
+    background: url("../images/button1.png") no-repeat scroll center 0 / 110px auto rgba(0, 0, 0, 0);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 9px 0;
+	}
+.testi {
+    margin: 20px 0 0;
+	}
+.fitness_apps {
+    margin: 25px 0 0;
+	}
+.testi h2{
+	padding: 7px 0 12px 23px;
+	font-size: 23px;
+	}
+.testi li h3 {
+    font-size: 17px;
+	}
+.info img {
+    height: auto;
+    width: 198px;
+	float:right;
+	}
+.ft_nav li a {
+    padding: 0 6px;
+	}
+.ft_cnt ul li {
+    clear: both;
+    display: block;
+    margin: 0 0 20px;
+	}
+.info {
+    width: auto;
+	}
+.fitness_tips {
+    width: auto;
+	}
+.ft_contact {
+    width: 100%;
+	float:none;
+	}
+.ft_cnt li li {
+    width: auto;
+	clear:none;
+	}
+.call {
+    width: auto;
+	float:left;
+	margin-right:26px !important;
+	padding: 0 0 23px 24px;
+	}
+.mail{
+	background: url("../images/mail.png") no-repeat scroll 0 4px rgba(0, 0, 0, 0);
+    padding: 0 8px 23px 24px;
+    width: auto;
+	float:left;
+	}
+.left_bn {
+    padding-top: 10px;
+    width: 196px;
+	}
+.middle_bn {
+    margin: 5px -17px 0 -8px;
+    width: 200px;
+	}
+.right_bn {
+    width: 206px;
+	}
+.banner {
+    margin-bottom: 0;
+	}
+.bookConsultation {
+    background-size: 100% auto;
+    font-size: 19px;
+    height: 43px;
+    margin: 27px 0 0;
+    padding: 15px 0 0;
+	}
+.banner span p {
+    font-size: 13px;
+    font-weight: 600;
+	}	
+.topCaption {
+    background-size: 80px auto;
+    line-height: 65px;
+    padding: 10px 96px 0 76px;
+	}
+.right_panel {
+    width: 43%;
+	}
+.video iframe {
+    height: 307px;
+	}
+.video {
+    width: 55%;
+	}
+.ftSocial img {
+    float: none;
+    width: auto;
+	}
+.ft_logo img {
+    height: auto;
+    max-width: 210px;
+    width: 100%;
+	}
+.ftSocial {
+    clear: both;
+	}	
+.timmingBtn {
+    display: none;
+	}	
+.left_bn p {
+    top: 31px;
+	}	
+.middle_bn p {
+    padding-right: 15px;
+    top: 16px;	
+	}
+.topCaption img {
+    height: auto;
+    width: 230px;
+	}	
+.testiSlider {
+    padding: 29px 20px;
+	}	
+.testi h2 a {
+    line-height: 47px;
+    right: 20px;
+	}	
+.ftSocial li {
+    margin-right: 5px !important;
+	}	
+.ft_contact li {
+    margin-bottom: 0 !important;
+	}	
+.ft_nav li {
+    padding: 0 3px;
+	}	
+.ft_cnt {
+    padding: 0 0 10px;
+	}	
+.right_bn p {
+    top: 22px;
+	}		
+.personal_dep .bookConsultation {
+    border-radius: 0;
+    width: 267px;
+	}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+/*** Personal page ***/
+.personal_dep {
+    width: auto;
+	}	
+.box_cnt img {
+    height: auto;
+    width: 100%;
+	}
+.before_after li {
+    margin-right: 3%;
+    width: 30%;
+	}
+.before_after img {
+    height: auto;
+    width: 100%;
+	}
+/*** Physio page ***/
+.ft_img_box li {
+    display: inline-block;
+    margin-right: 3%;
+    vertical-align: top;
+    width: 268px;
+}
+.ft_img_box img {
+    height: auto;
+    width: 100%;
+	}
+/*** Apps page ***/
+.apps_left_panel {
+    width: 48%;
+	}
+.apps_right_panel {
+    width: 48%;
+	}
+/*** Contact page ***/
+.box_cnt form ul li label {
+    width: 40%;
+	}
+.cnt_img_box li {
+    margin-right: 17px;
+	}
+/*** Dance page ***/
+.dance_video {
+    width: 47%;
+	}
+.dance_video img {
+    width:100%;
+	height:auto;
+	}
+.video_inst {
+    padding: 23px 0 0;
+}	
+.instagrame {
+    width: 42%;
+	}
+.instagrame img{
+    width: 100%;
+	height:auto;
+	}
+.inner_pg_box {
+    margin: 22px 0 0;
+	}
+.party_cnt p {
+    width: auto;
+	}
+.enquery {
+    float: none;
+	}
+.danceBox .personal_video {
+    width: 340px;
+	}	
+.partyBox .personal_video{
+	width: 340px;
+	}	
+	
+	
+	
+	
+	
+/*****  Personal page **********/
+.personal_video {
+    float: left;
+	}
+.personal_video {
+    float: left;
+	}
+.personal_dep {
+    width: auto;
+	display:inline;
+	}
+
+
+
+
+
+
+
+
+}
+@media only screen and (min-width:481px) and (max-width:640px){
+.wrapper{
+	 width: auto; 
+	 margin: 0 auto 24px;
+	}
+body {
+    background: url("../images/bg_l.png") no-repeat scroll left top / 209px auto, url("../images/bg_r.png") no-repeat scroll right top / 222px auto, url("../images/bottom_bg.png") no-repeat scroll center bottom, url("../images/body_bg.jpg") repeat scroll center 0 #1f1e1c;	
+	}
+.logo img {
+    height: auto;
+    width: 305px;
+	}	
+#header .navMenu ul li {
+    margin: 0 10px 0 0 !important;
+    display: inline-table !important;
+	float:none !important;
+	 height: 106px !important;
+	 background: url("../images/nav_bg.png") no-repeat scroll center 0 / 105px auto rgba(0, 0, 0, 0) !important;
+	 width: 107px !important;
+	}
+#header .navMenu ul li a {
+    font-size: 14px !important;
+	}	
+.content {
+    padding: 0 15px;
+	}	
+.left_panel {
+    width: auto;
+}
+.right_panel {
+    float: none;
+    padding: 32px 0 0;
+    width: auto;
+	}
+footer {
+    margin: 41px 15px 0;
+	}
+.info {
+    width: 33%;
+	}	
+.ft_contact {
+    width: 25%;
+	}	
+.timing h2 {
+    padding: 7px 0 12px 23px;
+	font-size: 23px;
+	}	
+.fitness_apps h2{
+    padding: 7px 0 12px 23px;
+	font-size: 23px;
+	}	
+.fitness_apps img {
+    max-width: 285px;
+    padding: 25px 0 6px;
+    width: 100%;
+	}
+.app_bt {
+    margin: 15px auto 18px;
+	}	
+.app_bt a {
+    background: url("../images/button1.png") no-repeat scroll center 0 / 110px auto rgba(0, 0, 0, 0);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 9px 0;
+	}
+.testi {
+    margin: 0px 0 0;
+	}
+.fitness_apps {
+    margin: 25px 0 0;
+	}
+.testi h2{
+	font-size: 23px;
+    padding: 10px 0 10px 23px;
+    text-align: left;
+	}
+.box_hd {
+    font-size: 26px;
+	}	
+.testi li h3 {
+    font-size: 17px;
+	}
+.info img {
+    height: auto;
+    width: 198px;
+	}
+.ft_nav li a {
+    font-size: 14px;
+    padding: 0 0 8px;
+	}
+.ft_cnt ul li {
+    display: block;
+	clear:both;
+	}
+.info {
+    width: auto;
+	}
+.fitness_tips {
+    padding: 14px 0;
+    width: auto;
+	}	
+.ft_contact {
+    float: none;
+    padding-top: 25px;
+    width: 100%;
+	}
+.ft_cnt li li {
+    width: auto;
+	clear:none;
+	}
+.left_bn {
+    padding-top: 10px;
+    width: 158px;
+	}
+.middle_bn {
+    margin: 5px -17px 0 -8px;
+    width: 163px;
+	}
+.right_bn {
+    width: 162px;
+	}
+.banner {
+    margin-bottom: 0;
+	padding: 0 0px;
+	}
+.bookConsultation {
+    background-size: 100% auto;
+    font-size: 19px;
+    height: 51px;
+    margin: 14px auto;
+    padding: 15px 0 0;
+    width: 260px;
+	border-radius: 9px;
+	}
+.banner span p {
+    font-size: 11px;
+    font-weight: 600;
+	}	
+.topCaption {
+    background-size: 80px auto;
+    line-height: 65px;
+    padding: 10px 96px 0 76px;
+	}
+.right_panel {
+    float: none;
+    padding-top: 18px;
+    width: 100%;
+	}
+.video iframe {
+    height: 307px;
+	}
+.video {
+    float: none;
+    padding-top: 20px;
+    width: 100%;
+	}
+.ftSocial img {
+    float: none;
+    width: auto;
+	}
+.ft_logo img {
+    height: auto;
+    max-width: 210px;
+    width: 100%;
+	}
+.ftSocial {
+    clear: both;
+	}	
+.timmingBtn {
+    display: none;
+	}	
+.left_bn p {
+    top: 29px;
+	}	
+.middle_bn p {
+    padding-right: 15px;
+    top: 16px;	
+	}
+.topCaption img {
+    height: auto;
+    width: 230px;
+	}	
+.testiSlider {
+    padding: 29px 20px;
+	}	
+.testi h2 a {
+    line-height: 47px;
+    right: 20px;
+	}	
+.ftSocial li {
+    margin-right: 5px !important;
+	}	
+.ft_contact li {
+    margin-bottom: 0 !important;
+	}	
+.ft_nav li {
+    padding: 0 8px;
+	}	
+.ft_cnt {
+    padding: 0 0 10px;
+	}	
+.right_bn p {
+    top: 17px;
+	}		
+.top_panel {
+    margin-bottom: 0;
+	}	
+.testi li p {
+    font-size: 13px;
+    line-height: 24px;
+	}	
+.testi li h5 {
+    font-size: 19px;
+	}	
+.ft_logo {
+    margin: 0 auto 20px;
+    padding: 0;
+    width: 150px;
+	}	
+.call {
+    padding-bottom: 11px;
+	}	
+.ft_cnt ul li h3 {
+    padding: 0 0 11px;
+	}	
+.ftSocial h3 {
+    padding-bottom: 11px !important;
+	}	
+.ft_img_box {
+    margin-bottom:33px;
+	}	
+#carousel_1 .owl-prev {
+    background-size: 15px auto;
+    left: 0;
+	}	
+#carousel_1 .owl-next {
+    background-size: 15px auto;
+    right: 0;
+	}	
+.personal_dep p {
+    font-size: 13px;
+	}	
+.personal_dep .bookConsultation {
+    border-radius: 0;
+    width: 267px;
+	}		
+	
+	
+	
+	
+	
+	
+	
+/*** personal page ***/
+.personal_dep {
+    width: auto;
+	}	
+.box_cnt img {
+    height: auto;
+    width: 100%;
+	}
+.before_after li {
+    margin-right: 3%;
+    width: 30%;
+	}
+.before_after img {
+    height: auto;
+    width: 100%;
+	}
+.before_after ul {
+    padding-bottom: 0;
+	}
+.before_after p {
+    font-size: 16px;
+	padding-bottom: 6px;
+	}
+/*** Physio page ***/
+.ft_img_box li {
+    display: inline-block;
+    margin-right: 3%;
+    vertical-align: top;
+    width: 188px;
+}
+.ft_img_box img {
+    height: auto;
+    width: 100%;
+	}
+.personal_dep h3 {
+    font-size: 23px;
+	}
+/*** Apps page ***/
+.apps_left_panel {
+    width: auto;
+	}
+.apps_right_panel {
+    width: auto;
+	padding: 35px 0 0;
+	float:none;
+	}
+.apps_left_panel ul {
+    padding: 15px 0 0;
+	}
+.apps_right_panel ul {
+    padding: 15px 0 0;
+	}
+/*** Contact page ***/
+.box_cnt form ul li label {
+    width: 40%;
+	}
+.cnt_img_box li {
+    margin-right: 11px;
+	width: 30%;
+	}
+.box_cnt form ul li label {
+    display: block;
+    font-size: 15px;
+    padding-bottom: 2px;
+    width: auto;
+	}
+.box_cnt form ul li input[type="text"] {
+    width: 96%;
+	}
+.box_cnt form ul li textarea{
+	width: 96%;
+	}
+.box_cnt h3 {
+    font-size: 19px;
+	}
+.box_cnt form ul li input[type="submit"] {
+    margin-top: 0px;
+	}
+/*** Dance page ***/
+.dance_video {
+    width: 47%;
+	}
+.dance_video img {
+    width:100%;
+	height:auto;
+	}
+.video_inst {
+    padding: 23px 0 0;
+}	
+.instagrame {
+    width: 42%;
+	}
+.instagrame img{
+    width: 100%;
+	height:auto;
+	}
+.inner_pg_box {
+    margin: 22px 0 0;
+	}
+.party_cnt p {
+    width: auto;
+	}
+.enquery {
+    float: none;
+	}
+.dance_intro img {
+    width: 205px;
+	}
+.dance_video {
+    padding-bottom: 18px;
+    width: auto;
+	}
+.instagrame {
+    float: none;
+    width: auto;
+	}
+.danceBox .personal_video {
+    width: 340px;
+	float:none;
+	}	
+.partyBox .personal_video{
+	width: 340px;
+	float:none;
+	}	
+.partyBox .bookConsultation {
+    font-size: 23px;
+	}	
+	
+	
+	
+	
+	
+/*****  Personal page **********/
+.personal_dep {
+    width: auto;
+	display:block;
+	}
+.personal_video {
+    float: none;
+    margin: 0 auto 14px;
+	}
+
+
+
+
+
+
+}
+@media only screen and (min-width:321px) and (max-width:480px){
+.wrapper{
+	 width: auto; 
+	 margin: 0 auto 24px;
+	}
+body {
+    background: url("../images/bg_l.png") no-repeat scroll left top / 209px auto, url("../images/bg_r.png") no-repeat scroll right top / 222px auto, url("../images/bottom_bg.png") no-repeat scroll center bottom, url("../images/body_bg.jpg") repeat scroll center 0 #1f1e1c;	
+	}
+.logo {
+    height: 100px;
+    overflow: hidden;
+    text-align: center;
+}	
+.logo img {
+    height: auto;
+    width: 245px;
+	}
+.logo img {
+    padding: 9px 0 0;
+	}		
+#header .navMenu ul li {
+    margin: 0 10px 0 0 !important;
+    display: inline-table !important;
+	float:none !important;
+	 height: 106px !important;
+	 background: url("../images/nav_bg.png") no-repeat scroll center 0 / 105px auto rgba(0, 0, 0, 0) !important;
+	 width: 107px !important;
+	}
+#header .navMenu ul li a {
+    font-size: 14px !important;
+	}	
+.content {
+    padding: 0 10px;
+	}	
+.left_panel {
+    width: auto;
+}
+.right_panel {
+    float: none;
+    padding: 32px 0 0;
+    width: auto;
+	}
+footer {
+    margin: 41px 10px 0;
+	}
+.info {
+    width: 33%;
+	}	
+.ft_contact {
+    width: 25%;
+	}	
+.timing h2 {
+    padding: 7px 0 12px 23px;
+	font-size: 23px;
+	}	
+.fitness_apps h2{
+    padding: 7px 0 12px 23px;
+	font-size: 23px;
+	}	
+.fitness_apps img {
+    max-width: 285px;
+    padding: 25px 0 6px;
+    width: 100%;
+	}
+.app_bt {
+    margin: 15px auto 18px;
+	}	
+.app_bt a {
+    background: url("../images/button1.png") no-repeat scroll center 0 / 110px auto rgba(0, 0, 0, 0);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 9px 0;
+	}
+.testi {
+    margin: 20px 0 0;
+	}
+.fitness_apps {
+    margin: 25px 0 0;
+	}
+.testi h2{
+	font-size: 23px;
+    padding: 7px 0 12px 23px;
+    text-align: left;
+	}
+.testi li h3 {
+    font-size: 17px;
+	}
+.info img {
+    height: auto;
+    width: 198px;
+	}
+.ft_nav li a {
+    display: table;
+    margin: 0 auto;
+    padding: 0 6px 8px;
+	}
+.ft_cnt ul li {
+    display: block;
+	clear:both;
+	}
+.info {
+    width: auto;
+	}
+.fitness_tips {
+    padding: 14px 0;
+    width: auto;
+	}	
+.ft_contact {
+    float: none;
+    padding-top: 20px;
+    width: 100%;
+	}
+.ft_cnt li li {
+    width: auto;
+	clear:none;
+	}
+.mean-bar:after {
+    width: 86% !important;
+}
+.timing ul li span {
+    font-size: 16px;
+	}
+.day {
+    width: auto;
+	}
+.time {
+    float: none;
+    width: auto;
+	}
+.timing ul li {
+    padding: 0 0 11px;
+	}
+	
+.left_bn {
+    padding-top: 10px;
+    width: 108px;
+	}
+.middle_bn {
+    margin: 5px -7px 0 -2px;
+    width: 109px;
+	}
+.right_bn {
+    width: 108px;
+	}
+.banner {
+    margin-bottom: 0;
+	padding: 0 0px;
+	}
+.bookConsultation {
+    background-size: 100% auto;
+    font-size: 19px;
+    height: 51px;
+    margin: 14px auto;
+    padding: 15px 0 0;
+    width: 260px;
+	border-radius: 0;
+	}
+.banner span p {
+    font-size: 7px;
+    font-weight: 600;
+	}	
+.topCaption {
+    background-size: 58px auto;
+    line-height: 54px;
+    padding: 0 64px 0 0;
+	}
+.right_panel {
+    float: none;
+    padding-top: 18px;
+    width: 100%;
+	}
+.video iframe {
+    height: 197px;
+	}
+.video {
+    float: none;
+    padding-top: 20px;
+    width: 100%;
+	}
+.ftSocial img {
+    float: none;
+    width: auto;
+	}
+.ft_logo img {
+    height: auto;
+    max-width: 210px;
+    width: 100%;
+	}
+.ftSocial {
+    clear: both;
+	}	
+.timmingBtn {
+    display: none;
+	}	
+.left_bn p {
+    top: 23px;
+	}	
+.middle_bn p {
+    padding-right: 11px;
+    top: 10px;	
+	}
+.topCaption img {
+    height: auto;
+    width: 160px;
+	}	
+.testiSlider {
+    padding: 29px 20px;
+	}	
+.testi h2 a {
+    font-size: 18px;
+    line-height: 47px;
+    right: 20px;
+	}	
+.ftSocial li {
+    margin-right: 5px !important;
+	}	
+.ft_contact li {
+    margin-bottom: 0 !important;
+	}	
+.ft_nav li {
+    display: block;
+    float: none;
+    padding: 0 8px;
+	}	
+.ft_cnt {
+    padding: 0 0 10px;
+	}	
+.right_bn p {
+    top: 12px;
+	}		
+.top_panel {
+    margin-bottom: 0;
+	}	
+.testi li p {
+    font-size: 13px;
+    line-height: 24px;
+	}	
+.testi li h5 {
+    font-size: 19px;
+	}	
+.ft_logo {
+    margin: 0 auto 20px;
+    padding: 0;
+    width: 150px;
+	}	
+.call {
+    padding-bottom: 11px;
+	}	
+.ft_cnt ul li h3 {
+    padding: 0 0 11px;
+	}	
+.ftSocial h3 {
+    padding-bottom: 11px !important;
+	}	
+#carousel_1 .owl-prev {
+    background-size: 15px auto;
+    left: 0;
+	}	
+#carousel_1 .owl-next {
+    background-size: 15px auto;
+    right: 0;
+	}	
+.box_hd {
+    font-size: 24px;
+	}	
+.personal_dep .bookConsultation {
+    border-radius: 0;
+    font-size: 19px;
+    padding-top: 13px;
+    width: 247px;
+	height: 41px;
+	}		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+/*** personal page ***/
+.personal_dep {
+    width: auto;
+	}	
+.box_cnt img {
+    height: auto;
+    width: 100%;
+	}
+.before_after li {
+    margin-bottom: 10px;
+    margin-right: 0;
+    width: auto;
+	}
+.before_after img {
+    height: auto;
+    width: 100%;
+	}
+.before_after ul {
+    padding-bottom: 0;
+	}
+.before_after p {
+    font-size: 16px;
+	padding-bottom: 6px;
+	}
+.personal_video {
+    margin-right: 0;
+    width: auto;
+	}
+/*** Physio page ***/
+.ft_img_box li {
+    display: inline-block;
+    margin-right: 3%;
+    vertical-align: top;
+    width: 29%;
+}
+.ft_img_box img {
+    height: auto;
+    width: 100%;
+	}
+.personal_dep h3 {
+    font-size: 23px;
+	}
+.ft_img_box li {
+    margin-bottom: 10px;
+    margin-right: 0;
+    width: auto;
+	}
+.ft_img_box img {
+    height: auto;
+    width: 89%;
+	}
+/*** Apps page ***/
+.apps_left_panel {
+    width: auto;
+	}
+.apps_right_panel {
+    width: auto;
+	padding: 35px 0 0;
+	}
+.apps_left_panel ul {
+    padding: 15px 0 0;
+	}
+.apps_right_panel ul {
+    padding: 15px 0 0;
+	}
+
+/*** Contact page ***/
+.box_cnt form ul li label {
+    width: 40%;
+	}
+.cnt_img_box li {
+    margin-right: 11px;
+	width: 30%;
+	}
+.box_cnt form ul li label {
+    display: block;
+    font-size: 15px;
+    padding-bottom: 2px;
+    width: auto;
+	}
+.box_cnt form ul li input[type="text"] {
+    width: 96%;
+	}
+.box_cnt form ul li textarea{
+	width: 96%;
+	}
+.box_cnt h3 {
+    font-size: 20px;
+	}
+.box_cnt form ul li input[type="submit"] {
+    margin-top: 0px;
+	}
+.cnt_img_box li {
+    margin-right: 0;
+    padding-bottom: 11px;
+    width: auto;
+}
+/*** Dance page ***/
+.dance_video {
+    width: 47%;
+	}
+.dance_video img {
+    width:100%;
+	height:auto;
+	}
+.video_inst {
+    padding: 23px 0 0;
+}	
+.instagrame {
+    width: 42%;
+	}
+.instagrame img{
+    width: 100%;
+	height:auto;
+	}
+.inner_pg_box {
+    margin: 22px 0 0;
+	}
+.party_cnt p {
+    width: auto;
+	}
+.enquery {
+    float: none;
+	}
+.dance_intro img {
+    float: none;
+    max-width: 282px;
+    width: 100%;
+	}
+.dance_video {
+    padding-bottom: 18px;
+    width: auto;
+	}
+.instagrame {
+    float: none;
+    width: auto;
+	}
+.danceBox .personal_video {
+    width: auto;
+	float:none;
+	}	
+.partyBox .personal_video{
+	width: auto;
+	float:none;
+	}	
+.partyBox .bookConsultation {
+    font-size: 17px;
+    height: 28px;
+    padding-top: 8px;
+    width: 120px;
+	}				
+	
+	
+	
+	
+	
+/*****  Personal page **********/
+.personal_dep {
+    width: auto;
+	display:block;
+	}
+.personal_video {
+    float: none;
+    margin: 0 auto 14px;
+	width:100%;
+	}
+.personal_video iframe {
+    height: 250px;
+    width: 100%;
+	}
+.box_cnt {
+    padding: 21px 15px 22px;
+	}
+
+
+
+
+
+
+}
+@media only screen and (max-width:320px){
+.wrapper{
+	 width: auto; 
+	 margin: 0 auto 24px;
+	}
+body {
+    background: url("../images/bg_l.png") no-repeat scroll left top / 209px auto, url("../images/bg_r.png") no-repeat scroll right top / 222px auto, url("../images/bottom_bg.png") no-repeat scroll center bottom, url("../images/body_bg.jpg") repeat scroll center 0 #1f1e1c;	
+	}
+.logo {
+    height: 121px;
+    overflow: hidden;
+    text-align: center;
+}	
+.logo img {
+    height: auto;
+    width: 305px;
+	}	
+#header .navMenu ul li {
+    margin: 0 10px 0 0 !important;
+    display: inline-table !important;
+	float:none !important;
+	 height: 106px !important;
+	 background: url("../images/nav_bg.png") no-repeat scroll center 0 / 105px auto rgba(0, 0, 0, 0) !important;
+	 width: 107px !important;
+	}
+#header .navMenu ul li a {
+    font-size: 14px !important;
+	}	
+.content {
+    padding: 0 10px;
+	}	
+.left_panel {
+    width: auto;
+}
+.right_panel {
+    float: none;
+    padding: 32px 0 0;
+    width: auto;
+	}
+footer {
+    margin: 30px 10px 0;
+	}
+.info {
+    width: 33%;
+	}	
+.ft_contact {
+    width: 25%;
+	}	
+.timing h2 {
+    padding: 7px 0 12px 23px;
+	font-size: 18px;
+	}	
+.fitness_apps h2{
+    padding: 7px 0 12px 23px;
+	font-size: 23px;
+	}	
+.fitness_apps img {
+    max-width: 285px;
+    padding: 25px 0 6px;
+    width: 100%;
+	}
+.app_bt {
+    margin: 15px auto 18px;
+	}	
+.app_bt a {
+    background: url("../images/button1.png") no-repeat scroll center 0 / 110px auto rgba(0, 0, 0, 0);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 9px 0;
+	}
+.testi {
+    margin: 20px 0 0;
+	}
+.fitness_apps {
+    margin: 25px 0 0;
+	}
+.testi h2{
+	font-size: 23px;
+    padding: 7px 0 12px 23px;
+    text-align: left;
+	}
+.testi li h3 {
+    font-size: 17px;
+	}
+.info img {
+    height: auto;
+    width: 198px;
+	}
+.ft_nav li a {
+    display: table;
+    margin: 0 auto;
+    padding: 0 6px 8px;
+	}
+.ft_cnt ul li {
+    display: block;
+	clear:both;
+	}
+.info {
+    width: auto;
+	}
+.fitness_tips {
+    padding: 14px 0;
+    width: auto;
+	}	
+.ft_contact {
+    float: none;
+    padding-top: 20px;
+    width: 100%;
+	}
+.ft_cnt li li {
+    width: auto;
+	clear:none;
+	}
+.mean-bar:after {
+    width: 86% !important;
+}
+.timing ul li span {
+    font-size: 14px;
+	}
+.day {
+    width: auto;
+	}
+.time {
+    float: none;
+    width: auto;
+	}
+.timing ul li {
+    padding: 0 0 11px;
+	}
+
+
+.left_bn {
+    padding-top: 10px;
+    width: 108px;
+	}
+.middle_bn {
+    margin: 5px -7px 0 -2px;
+    width: 109px;
+	}
+.right_bn {
+    width: 108px;
+	}
+.banner {
+    margin-bottom: 0;
+	padding: 0 0px;
+	}
+.bookConsultation {
+    background-size: 100% auto;
+    font-size: 14px;
+    height: 51px;
+    margin: 14px auto;
+    padding: 11px 0 0;
+    width: 200px;
+	border-radius: 0;
+	}
+.banner span p {
+    font-size: 15px;
+    font-weight: 600;
+	}	
+.topCaption {
+    background-size: 58px auto;
+    line-height: 54px;
+    padding: 0 64px 0 0;
+	}
+.right_panel {
+    float: none;
+    padding-top: 18px;
+    width: 100%;
+	}
+.video iframe {
+    height: 197px;
+	}
+.video {
+    float: none;
+    padding-top: 20px;
+    width: 100%;
+	}
+.ftSocial img {
+    float: none;
+    width: auto;
+	}
+.ft_logo img {
+    height: auto;
+    max-width: 210px;
+    width: 100%;
+	}
+.ftSocial {
+    clear: both;
+	}	
+.timmingBtn {
+    display: none;
+	}	
+.left_bn p {
+    top: 41px;
+	}	
+.middle_bn p {
+    padding-right: 11px;
+    top: 23px;	
+	}
+.topCaption img {
+    height: auto;
+    width: 160px;
+	}	
+.testiSlider {
+    padding: 29px 20px;
+	}	
+.testi h2 a {
+    font-size: 18px;
+    line-height: 47px;
+    right: 20px;
+	}	
+.ftSocial li {
+    margin-right: 5px !important;
+	}	
+.ft_contact li {
+    margin-bottom: 0 !important;
+	}	
+.ft_nav li {
+    display: block;
+    float: none;
+    padding: 0 8px;
+	}	
+.ft_cnt {
+    padding: 0 0 10px;
+	}	
+.right_bn p {
+    top: 29px;
+	}		
+.top_panel {
+    margin-bottom: 0;
+	}	
+.testi li p {
+    font-size: 13px;
+    line-height: 24px;
+	}	
+.testi li h5 {
+    font-size: 19px;
+	}	
+.ft_logo {
+    margin: 0 auto 20px;
+    padding: 0;
+    width: 150px;
+	}	
+.call {
+    padding-bottom: 11px;
+	}	
+.ft_cnt ul li h3 {
+    padding: 0 0 11px;
+	}	
+.ftSocial h3 {
+    padding-bottom: 11px !important;
+	}	
+.banner span {
+    display: block;
+    float: none;
+    position: relative;
+    width: auto;
+	margin:0 0 4px 0;
+	}	
+#carousel_1 .owl-prev {
+    background-size: 15px auto;
+    left: 0;
+	}	
+#carousel_1 .owl-next {
+    background-size: 15px auto;
+    right: 0;
+	}	
+.box_hd {
+    font-size: 24px;
+	}	
+.personal_dep p {
+    font-size: 14px;
+	}
+
+
+
+
+
+
+
+
+
+
+	
+/*** personal page ***/
+.personal_dep {
+    width: auto;
+	}	
+.box_cnt img {
+    height: auto;
+    width: 100%;
+	}
+.before_after li {
+    margin-bottom: 10px;
+    margin-right: 0;
+    width: auto;
+	}
+.before_after img {
+    height: auto;
+    width: 100%;
+	}
+.before_after ul {
+    padding-bottom: 0;
+	}
+.before_after p {
+    font-size: 16px;
+	padding-bottom: 6px;
+	}
+.personal_video {
+    margin-right: 0;
+    width: auto;
+	}
+.logo img {
+    height: auto;
+    width: 100%;
+}
+/*** Physio page ***/
+.ft_img_box li {
+    display: inline-block;
+    margin-right: 3%;
+    vertical-align: top;
+    width: 29%;
+}
+.ft_img_box img {
+    height: auto;
+    width: 100%;
+	}
+.personal_dep h3 {
+    font-size: 23px;
+	}
+.ft_img_box li {
+    margin-bottom: 10px;
+    margin-right: 0;
+    width: auto;
+	}
+.ft_img_box img {
+    height: auto;
+    width: 89%;
+	}
+/*** Apps page ***/
+.apps_left_panel {
+    width: auto;
+	}
+.apps_right_panel {
+    width: auto;
+	padding: 35px 0 0;
+	}
+.apps_left_panel ul {
+    padding: 15px 0 0;
+	}
+.apps_right_panel ul {
+    padding: 15px 0 0;
+	}
+.apps_right_panel li {
+    font-size: 13px;
+    padding: 0 0 0 69px;
+    width: 61%;
+	}
+.apps_left_panel li {
+    font-size: 13px;
+	}
+/*** Contact page ***/
+.box_cnt form ul li label {
+    width: 40%;
+	}
+.cnt_img_box li {
+    margin-right: 11px;
+	width: 30%;
+	}
+.box_cnt form ul li label {
+    display: block;
+    font-size: 15px;
+    padding-bottom: 2px;
+    width: auto;
+	}
+.box_cnt form ul li input[type="text"] {
+    width: 96%;
+	}
+.box_cnt form ul li textarea{
+	width: 96%;
+	}
+.box_cnt h3 {
+    font-size: 17px;
+	}
+.box_cnt form ul li input[type="submit"] {
+    margin-top: 0px;
+	}
+.cnt_img_box li {
+    margin-right: 0;
+    padding-bottom: 11px;
+    width: auto;
+}
+/*** Dance page ***/
+.dance_video {
+    width: 47%;
+	}
+.dance_video img {
+    width:100%;
+	height:auto;
+	}
+.video_inst {
+    padding: 23px 0 0;
+}	
+.instagrame {
+    width: 42%;
+	}
+.instagrame img{
+    width: 100%;
+	height:auto;
+	}
+.inner_pg_box {
+    margin: 22px 0 0;
+	}
+.party_cnt p {
+    width: auto;
+	}
+.enquery {
+    float: none;
+	}
+.dance_intro img {
+    float: none;
+    margin: 0;
+    max-width: 282px;
+    width: 100%;
+	}
+.dance_video {
+    padding-bottom: 18px;
+    width: auto;
+	}
+.instagrame {
+    float: none;
+    width: auto;
+	}
+.box_hd {
+    font-size: 24px;
+	}
+.danceBox .personal_video {
+    width: auto;
+	float:none;
+	}	
+.partyBox .personal_video{
+	width: auto;
+	float:none;
+	}	
+.partyBox .bookConsultation {
+    font-size: 17px;
+    height: 28px;
+    padding-top: 8px;
+    width: 120px;
+	}		
+	
+	
+	
+	
+	
+	
+/*****  Personal page **********/
+.personal_video {
+    float: left;
+	}
+.personal_video {
+    float: left;
+	}
+.personal_dep {
+    width: auto;
+	display:block;
+	}
+.personal_video {
+    float: none;
+    margin-bottom: 14px;
+    width: 100%;
+	}
+.box_cnt {
+    padding: 21px 15px 22px;
+	}
+.personal_dep .bookConsultation {
+    padding-top: 8px;
+    width: 177px;
+	height: 32px;
+	}
+.personal_video iframe {
+    height: auto;
+    width: 100%;
+	}
+
+
+
+
+
+
+
+
+
+	
+}
+
+
+
+
